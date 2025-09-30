@@ -1,0 +1,42 @@
+/*Font Family  Links*/
+
+@font-face{
+	src: url(../font/veramono-regular.ttf);
+	font-family: veramono-regular;
+}
+
+@font-face{
+	src: url(../font/veramono-bold-italic.ttf);
+	font-family: veramono-bold-italic;
+}
+
+@font-face{
+	src: url(../font/veramono-bold.ttf);
+	font-family: veramono-bold;
+}
+
+
+/*Font Family  Links*/
+
+h1{
+	font-family: veramono-regular;
+	font-size: 40px;
+	font-weight: 400;
+	color: green;
+
+}
+
+p{
+	font-family: veramono-bold-italic;
+	font-size: 20px;
+	font-weight: 700;
+	color: red;
+}
+p2{
+	font-family: veramono-bold;
+	font-size: 20px;
+	font-weight: 700;
+	color: black;
+}
+
+}
